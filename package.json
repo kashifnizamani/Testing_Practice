@@ -1,0 +1,26 @@
+{
+  "name": "testing_practice",
+  "version": "1.0.0",
+  "description": "Repository for practicing Test Driven Development (mainly unit testing)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kashifnizamani/Testing_Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kashifnizamani/Testing_Practice/issues"
+  },
+  "homepage": "https://github.com/kashifnizamani/Testing_Practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.28.3",
+    "@babel/preset-env": "^7.28.3",
+    "babel-jest": "^30.0.5",
+    "jest": "^30.0.5"
+  }
+}
