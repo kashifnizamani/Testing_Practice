@@ -9,9 +9,7 @@ describe("capitalize", () => {
     expect(capitalize("kashif")).toBe("Kashif");
   });
 
-    test("Empty", () => {
+  test("Empty", () => {
     expect(capitalize("")).toBe("");
   });
-
-
 });
